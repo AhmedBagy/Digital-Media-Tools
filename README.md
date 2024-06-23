@@ -8,7 +8,7 @@ Tools to capture screenshots at specific timecodes retrieved from Excel sheet.
 - DND the asset onto the .bat file, Then the tool will prompt you to DND the .txt file.
 - Voila!, You have your Screenshots.
 
-The .bat is orinigal to me, I used the opensource FFMPEG to extract the multi screenshots.
+The code of .bat is orinigal by me, I used the opensource FFMPEG to extract the multi screenshots.
 
 # Enjoy!
 
